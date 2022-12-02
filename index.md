@@ -5,7 +5,7 @@
 ### MUSA Projects 
 
 [Targeting a Subsidy](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="pdf/下载.png?raw=true"/>
 
 ---
 [Housing Price Prediction](/pdf/sample_presentation.pdf)
