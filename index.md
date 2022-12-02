@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### MUSA Projects 
 
-[Project 1 Title](/sample_page)
+[Targeting a Subsidy](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Housing Price Prediction](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Bike Share Prediciton](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
